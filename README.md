@@ -2,9 +2,7 @@
 kt nexr 면접 제출 코드 입니다.
 
 ### 프로젝트 데모 동영상
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/CajLHkQ7PMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+https://www.youtube.com/embed/CajLHkQ7PMg
 
 ### UI
 <div>
