@@ -1,5 +1,6 @@
 # kt-nexr-code
 kt nexr 면접 제출 코드 입니다.
+'모바일 초대장 제작 웹 플랫폼' 프로젝트에서 **편집, 결제** 기능을 하는 부분의 코드를 업로드 하였습니다.
 
 ### 프로젝트 데모 동영상
 https://www.youtube.com/embed/CajLHkQ7PMg
